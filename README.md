@@ -1,0 +1,2 @@
+# PySpark_SegregationOfCustomers
+Create a sequencing logic for cards in which first we will filter the data based on delivery code and then based on the count of unique customer id we will segregate the data. Case 1st, if unique customer id is having count greater than 8 then put in 1 bucket. Case 2nd, if count is smaller than or equal to 8 then create the buckets with 2 records each like for count 3 we have 2 buckets, 1st bucket will have 2 records and 2nd bucket will have 1 record.
