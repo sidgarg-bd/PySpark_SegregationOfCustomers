@@ -1,0 +1,112 @@
+20/06/09 17:22:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         1|         qwe|           N|
+|         2|         wer|           X|
+|         4|         tyu|           N|
+|         3|         ert|           X|
+|         1|         qwe|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         1|         qwe|           N|
+|         1|         qwe|           N|
+|         4|         tyu|           N|
+|         5|         asd|           N|
+|         6|         sdf|           N|
+|         4|         tyu|           N|
+|         1|         qwe|           N|
+|         7|         dfg|           N|
+|         5|         asd|           N|
+|         6|         sdf|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
++----------+------------+------------+
+only showing top 20 rows
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         1|         qwe|           N|
+|         1|         qwe|           N|
+|         1|         qwe|           N|
+|         1|         qwe|           N|
+|         1|         qwe|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         5|         asd|           N|
+|         5|         asd|           N|
+|         6|         sdf|           N|
+|         6|         sdf|           N|
+|         7|         dfg|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         7|         dfg|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         6|         sdf|           N|
+|         6|         sdf|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         5|         asd|           N|
+|         5|         asd|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         1|         qwe|           N|
+|         1|         qwe|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         1|         qwe|           N|
+|         1|         qwe|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         1|         qwe|           N|
++----------+------------+------------+
+
++----------+------------+------------+
+|CustomerId|CustomerName|DeliveryCode|
++----------+------------+------------+
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
+|         4|         tyu|           N|
++----------+------------+------------+
+
+
+Process finished with exit code 0
